@@ -13,5 +13,5 @@
 <a href="/Figma_von_Isabel_Schindler.pdf">Figma Prototyping Tool</a>
 <p><a href="https://github.com/isabels99/IFD/blob/1ff92ca01016807333ae4f97f905d50cd89290fc/Low%20Fid%20Prototyp.png">Low Fidelity Prototyp</a></p>
 
-<h2>#0 Aufgabe 5:</h2> 
+<h2>#05 Aufgabe 5&6:</h2> 
 <a href="https://xd.adobe.com/view/c20ef89b-f6ac-4e6b-a39f-c4ddac692850-975d/?fullscreen&hints=off">High Fidelity Prototyp</a>
