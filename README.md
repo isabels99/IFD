@@ -8,12 +8,12 @@
 
 <h2>#03 Aufgabe 3:</h2> 
 <a href="https://github.com/isabels99/IFD/blob/bb7ef5a41c4194a801c3793cc62a7945204a49ca/GUI%20Konzept%20und%20Moodboard.pdf">GUI Konzept & Moodboard</a>
-<a href="https://github.com/isabels99/IFD/blob/bb7ef5a41c4194a801c3793cc62a7945204a49ca/GUI%20Konzept%20und%20Moodboard.pdf">Moodboard 2.0 (Pflanzen Dashboard)</a>
+<p><a href="https://github.com/isabels99/IFD/blob/bb7ef5a41c4194a801c3793cc62a7945204a49ca/GUI%20Konzept%20und%20Moodboard.pdf">Moodboard 2.0 (Pflanzen Dashboard)</a></p>
 
 <h2>#04 Aufgabe 4:</h2> 
 <a href="/Figma_von_Isabel_Schindler.pdf">Figma Prototyping Tool</a>
 <p><a href="https://github.com/isabels99/IFD/blob/1ff92ca01016807333ae4f97f905d50cd89290fc/Low%20Fid%20Prototyp.png">Low Fidelity Prototyp</a></p>
-<p><a href="">Low Fidelity Prototyp 2.0 (Pflanzen Dashboard)</a></p>
+<a href="">Low Fidelity Prototyp 2.0 (Pflanzen Dashboard)</a>
 
 <h2>#05 Aufgabe 5&6:</h2> 
 <a href="https://xd.adobe.com/view/c20ef89b-f6ac-4e6b-a39f-c4ddac692850-975d/?fullscreen&hints=off">High Fidelity Prototyp</a>
