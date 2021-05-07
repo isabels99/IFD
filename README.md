@@ -7,7 +7,7 @@
 <a href="https://github.com/isabels99/IFD/blob/main/The%20Wallet%20Project%20.pdf">The Wallet Project</a>
 
 <h2>#03 Aufgabe 3:</h2> 
-<a href="https://github.com/isabels99/IFD/blob/bb7ef5a41c4194a801c3793cc62a7945204a49ca/GUI%20Konzept%20und%20Moodboard.pdf">GUI Konzept & Moodboard</a>
+<p><a href="https://github.com/isabels99/IFD/blob/bb7ef5a41c4194a801c3793cc62a7945204a49ca/GUI%20Konzept%20und%20Moodboard.pdf">GUI Konzept & Moodboard</a></p>
 <p><a href="">Moodboard 2.0 (Pflanzen Dashboard)</a></p>
 
 <h2>#04 Aufgabe 4:</h2> 
