@@ -8,7 +8,7 @@
 
 <h2>#03 Aufgabe 3:</h2> 
 <p><a href="https://github.com/isabels99/IFD/blob/bb7ef5a41c4194a801c3793cc62a7945204a49ca/GUI%20Konzept%20und%20Moodboard.pdf">GUI Konzept & Moodboard</a></p>
-<p><a href="">Moodboard 2.0 (Pflanzen Dashboard)</a></p>
+<p><a href="https://github.com/isabels99/IFD/blob/b8502185e10eb7062720a44baf9304611620fe35/Moodboard%20Plant-Dashboard.pdf">Moodboard 2.0 (Pflanzen Dashboard)</a></p>
 
 <h2>#04 Aufgabe 4:</h2> 
 <p><a href="/Figma_von_Isabel_Schindler.pdf">Figma Prototyping Tool</a></p>
