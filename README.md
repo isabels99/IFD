@@ -22,4 +22,5 @@
 <a href="https://github.com/isabels99/IFD/blob/19841525536b6137b6468a936b637d96aaa8dde3/%2307%20User%20Test%20und%20Evaluierung.pdf">User Testing Dokumentation</a>
 
 <h2>#08 Aufgabe 8:</h2> 
+<a href="https://github.com/isabels99/IFD/blob/3775064d62c973315790434606affe44db314668/Ideen%20Pitch%20GUI.pdf">Dokumentation</a>
 <a href="https://xd.adobe.com/view/c20ef89b-f6ac-4e6b-a39f-c4ddac692850-975d/?fullscreen&hints=off">Link zum interaktiven Prototyp</a>
