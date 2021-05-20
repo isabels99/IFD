@@ -18,8 +18,8 @@
 <h2>#05 Aufgabe 5&6:</h2> 
 <a href="https://xd.adobe.com/view/e588a231-ed07-4282-8b51-9ee3855ce8c7-b0db/?fullscreen&hints=off">High Fidelity Prototyp</a>
 
-<h2>#05 Aufgabe 7:</h2> 
+<h2>#07 Aufgabe 7:</h2> 
 <a href="https://github.com/isabels99/IFD/blob/19841525536b6137b6468a936b637d96aaa8dde3/%2307%20User%20Test%20und%20Evaluierung.pdf">User Testing Dokumentation</a>
 
-<h2>#05 Aufgabe 8:</h2> 
+<h2>#08 Aufgabe 8:</h2> 
 <a href="https://xd.adobe.com/view/c20ef89b-f6ac-4e6b-a39f-c4ddac692850-975d/?fullscreen&hints=off">Link zum interaktiven Prototyp</a>
