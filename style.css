@@ -58,7 +58,7 @@ a:hover {
 
 .quote {
     font-size: 20px;
-    color: darkolivegreen;
+    color: white;
     width: 70%;
     margin: 20px auto;
     border-bottom: 1px solid #eee;
@@ -66,7 +66,7 @@ a:hover {
 }
 
 .quote.answer {
-    color: yellowgreen;
+    color: white;
     text-align: end;
 }
 
