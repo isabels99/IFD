@@ -26,5 +26,5 @@
 <p><a href="https://xd.adobe.com/view/c20ef89b-f6ac-4e6b-a39f-c4ddac692850-975d/?fullscreen&hints=off">Link zum interaktiven Prototyp</a></p>
 
 <h2>#10 Aufgabe 9:</h2> 
-<p><a href="https://isabels99.github.io/IFD/index.html">VUI Konzept</a></p>
+<p><a href="https://isabels99.github.io/IFD/vui.html">VUI Konzept</a></p>
 
