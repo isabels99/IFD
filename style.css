@@ -45,6 +45,11 @@ a {
     text-decoration: none;
 }
 
+img{
+    height: 200px;
+    width: auto;
+}
+
 a:hover {
     color: #666666;
     text-decoration: underline;
