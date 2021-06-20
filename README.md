@@ -30,4 +30,5 @@
 
 <h2>#11 Aufgabe 10:</h2> 
 <p><a href="https://isabels99.github.io/IFD/vui_prototyp.html">Dokumentation</a></p>
-<p><a href="https://xd.adobe.com/view/1ea8a1e9-bf97-4d16-927c-93b86c7a0aa0-4bfb/?fullscreen&hints=off">VUI Prototyp</a></p>
+<p><a href="https://xd.adobe.com/view/1ea8a1e9-bf97-4d16-927c-93b86c7a0aa0-4bfb/?fullscreen&hints=off">Link zum Prototyp</a></p>
+<p><a href="https://youtu.be/sT6GCvvqMhY">Video</a></p>
